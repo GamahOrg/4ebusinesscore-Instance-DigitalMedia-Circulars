@@ -1,0 +1,42 @@
+﻿[
+  {
+    "Id": "91DD1F91-5140-4CB3-A965-9604B1D9F4D4",
+    "NameAr": "أمر ملكي",
+    "NameEn": "Royal order"
+  },
+  {
+    "Id": "605DEEB3-C075-41B3-8AD0-C65FA42B652B",
+    "NameAr": "مرسوم ملكي",
+    "NameEn": "Royal decree"
+  },
+  {
+    "Id": "D595865E-9399-4B11-9DF7-3F194240E737",
+    "NameAr": "قرار مجلس الوزراء",
+    "NameEn": "Cabinet decision"
+  },
+  {
+    "Id": "71B84044-1461-4A3D-86ED-15724DC3C63F",
+    "NameAr": "أمر سامي",
+    "NameEn": "Sublime order"
+  },
+  {
+    "Id": "CD9ECB05-E9C0-4416-A718-43B260145054",
+    "NameAr": "توجيه سامي",
+    "NameEn": "Sublime guidance"
+  },
+  {
+    "Id": "FA0A289B-D27F-43D4-A07B-31FA306FCEB1",
+    "NameAr": "قرار وزاري",
+    "NameEn": "Ministerial decision"
+  },
+  {
+    "Id": "CE182A7B-6758-4217-B132-1038790116BD",
+    "NameAr": "قرار مجالس و هيئات",
+    "NameEn": "Decision of councils and bodies"
+  },
+  {
+    "Id": "D252CE8D-6DD7-4E5C-834B-1454B04AC0AA",
+    "NameAr": "قرار إداري",
+    "NameEn": "Administrative decision"
+  }
+]

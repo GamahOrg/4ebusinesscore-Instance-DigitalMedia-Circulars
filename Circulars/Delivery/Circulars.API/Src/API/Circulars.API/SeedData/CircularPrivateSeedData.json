@@ -1,0 +1,40 @@
+﻿[
+  {
+    "Id": "3e2c2d9e-9872-4c4b-81a2-42fdc597c710",
+    "Name": "منشور سري خاص بالتنظيم الإداري",
+    "NameEn": "Confidential Circular on Administrative Organization",
+    "Number": "CIR-2025-001",
+    "DocumentClass": "Class A",
+    "DocumentAbout": "يهدف هذا المنشور إلى تنظيم العمل الداخلي في الإدارات المختلفة.",
+    "AccreditationDate": "2025-07-01T00:00:00",
+    "FromDate": "2025-07-01T00:00:00",
+    "ToDate": "2025-12-31T00:00:00",
+    "Details": "يحتوي هذا المنشور على تعليمات داخلية خاصة يجب اتباعها من قبل الإدارات المحددة.",
+    "PublicationType": 1,
+    "IsArchived": true,
+    "Ispublished": true,
+    "Orgs": [
+      {
+        "Id": "f27f65f3-b930-4a6e-bc04-12ffb4a16f90",
+        "OrgId": "6aaf469a-0efc-45ca-93cd-a458c3bdc365",
+        "CircularId": "3e2c2d9e-9872-4c4b-81a2-42fdc597c710"
+      }
+    ],
+    "Users": [],
+    "Attachments": [
+      {
+        "Id": "5f71a3c0-d342-4e98-9fdd-9b157e9a0a22",
+        "FilePath": "wwwroot/Default/4E.jpg",
+        "FileName": "منشور_تنظيم_العمل.jpg",
+        "CircularId": "3e2c2d9e-9872-4c4b-81a2-42fdc597c710"
+      }
+    ],
+    "OrgsConcerned": [
+      {
+        "Id": "b8a7181c-33a9-4a13-9e69-37f996a31e4d",
+        "OrgsConcernedId": "6aaf469a-0efc-45ca-93cd-a458c3bdc365",
+        "CircularId": "3e2c2d9e-9872-4c4b-81a2-42fdc597c710"
+      }
+    ]
+  }
+]

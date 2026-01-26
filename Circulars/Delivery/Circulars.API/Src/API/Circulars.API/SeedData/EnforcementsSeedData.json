@@ -1,0 +1,22 @@
+﻿[
+  {
+    "NameAr": "سارية",
+    "NameEn": "Valid"
+  },
+  {
+    "NameAr": "سارية و معدلة",
+    "NameEn": "Valid and amended"
+  },
+  {
+    "NameAr": "غير سارية",
+    "NameEn": "Not valid"
+  },
+  {
+    "NameAr": "سارية و حديثة",
+    "NameEn": "Valid and Up-to-date"
+  },
+  {
+    "NameAr": "حديثة و غير نافذة",
+    "NameEn": "Recent and not yet effective"
+  }
+]
